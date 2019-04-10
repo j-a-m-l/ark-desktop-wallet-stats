@@ -1,0 +1,24 @@
+{
+  "name": "ark-desktop-wallet-stats",
+  "title": "Wallet stats",
+  "version": "0.1.0",
+  "description": "Display wallet statistics on a new tab",
+  "main": "index.js",
+  "permissions": [
+     "WALLET-TAB",
+     "TRANSACTIONS"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-a-m-l/ark-desktop-wallet-stats.git"
+  },
+  "keywords": [
+    "ark"
+  ],
+  "author": "Juan A. Martín <juan@ark.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-a-m-l/ark-desktop-wallet-stats/issues"
+  },
+  "homepage": "https://github.com/j-a-m-l/ark-desktop-wallet-stats#readme"
+}
